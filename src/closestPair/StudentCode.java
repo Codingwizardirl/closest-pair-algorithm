@@ -2,7 +2,7 @@ package closestPair;
 
 import java.util.*;
 
-/** The student's implementation of Shamos's Algorithm. */
+/** Implementation of Shamos's Algorithm. */
 public class StudentCode {
 
     /** Find the square distance of the closest pairs in the point set.
